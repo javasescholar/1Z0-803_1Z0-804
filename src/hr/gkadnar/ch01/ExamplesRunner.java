@@ -7,7 +7,6 @@ public class ExamplesRunner {
 		
 		System.out.println("Examples of legal identifiers : hr.gkadnar.ch01.identifiers.LegalIdentifiers.java");
 		System.out.println("Examples of illegal identifiers : hr.gkadnar.ch01.identifiers.IllegalIdentifiers.java");
-
 	}
 
 }
